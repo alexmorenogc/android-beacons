@@ -5,7 +5,11 @@ Using android-beacon-library, Firebase and ripplebackground library of https://g
 
 Icons made by Wichai.wi from www.flaticon.com
 
-You need to add .app/google-services.json with your information in Firebase project and your api key:
+You need to add .app/google-services.json with your information in Firebase project and your api key
+
+And also you need to change your api_key in google_maps_api.xml
+
+```
 
 {
   "project_info": {
@@ -55,5 +59,4 @@ You need to add .app/google-services.json with your information in Firebase proj
   ],
   "configuration_version": "1"
 }
-
-And also you need to change your api_key in google_maps_api.xml
+      

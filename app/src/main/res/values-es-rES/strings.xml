@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">Beacons</string>
+
+    <!-- FormsTitle -->
+    <string name="email">Correo electrónico:</string>
+    <string name="password">Contraseña:</string>
+    <string name="name">Nombre:</string>
+    <string name="surname">Apellido:</string>
+
+    <!-- Hints -->
+    <string name="enterPasswordHint">Introduce tu contraseña…</string>
+    <string name="enterEmailHint">Introduce tu correo electrónico…</string>
+    <string name="enterNameHint">Introduce tu nombre…</string>
+    <string name="enterSurnameHint">Introduce tu apellido…</string>
+    <string name="createAccount">¿No tienes una cuenta todavía? Crea una…</string>
+
+    <!-- Buttons -->
+    <string name="loginButton">Iniciar sesión</string>
+    <string name="registerButton">Crea una nueva cuenta</string>
+
+    <!-- Titles always UPPERCASE -->
+    <string name="registerTitle">REGISTRO</string>
+    <string name="loginTitle">INICIO DE SESIÓN</string>
+
+    <!-- new ones -->
+    <string name="buttonFindBeacon">Buscar balizas electrónicas</string>
+    <string name="askForLocationPermissionsTitle">Permisos de Ubicación necesarios</string>
+    <string name="askForLocationPermissionsMessage">Necesitamos permisos de ubicación para encontrar las balizas electrónicas</string>
+    <string name="turnOnLocationMessage">Por favor activa la Ubicación</string>
+    <string name="ok">Vale</string>
+    <string name="dismiss">Denegar</string>
+    <string name="registerError">Error de registro</string>
+    <string name="somethingWasWrong">Algo fue mal</string>
+    <string name="registerSuccessfulTitle">Registro con éxito</string>
+    <string name="registerSuccessful">El registro se ha realizado correctamente</string>
+    <string name="stopSearch">Detener la búsqueda</string>
+    <string name="contentDescriptionImage">Maspalomas</string>
+    <string name="forgottenButton">Enviar nueva contraseña</string>
+    <string name="forgottenPassword">¿Olvidaste la contraseña?</string>
+    <string name="sendPassword"> Enviar una nueva contraseña</string>
+    <string name="refresh">Refrescar</string>
+    <string name="localsAround">Locales cercanos</string>
+    <string name="local">Local</string>
+    <string name="information">Información</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="found">Has encontrado: </string>
+    <string name="errorLoadingPlaceInBeaconsFinder">No podemos encontrar la baliza electrónica en nuestro sistema,
+se cargarán todos los lugares en nuestra base de datos</string>
+    <string name="errorLoading">Error al cargar los datos</string>
+    <string name="errorLoadingLocal">Algo fue mal intentando obtener la información del local, inténtalo más tarde</string>
+    <string name="grantLocationPermissions">Necesitas conceder los permisos de ubicación</string>
+    <string name="permissionsRequired">Permisos requeridos</string>
+    <string name="emailError">Completar el correo electrónico</string>
+    <string name="emailMissedText">El campo del correo electrónico tiene que estar completo para poder iniciar sesión</string>
+    <string name="passwordError">Contraseña demasiado corta</string>
+    <string name="passwordTooShort">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="loginError">Error al iniciar sesión</string>
+    <string name="incorrectCredentials">Correo electrónico o contraseña incorrecta, revise sus credenciales de nuevo</string>
+    <string name="emptyFields">Por favor, rellene todos los campos</string>
+    <string name="resetPasswordError">Error de recuperación de contraseña</string>
+    <string name="wrongEmail">Correo electrónico incorrecto, revise su correo electrónico de nuevo</string>
+    <string name="notFound">notFound</string>
+    <string name="localsAroundButton">¡Vea los locales alrededor de esta baliza electrónica!</string>
+    <string name="description">Descripción:</string>
+    <string name="phone">Teléfono:</string>
+    <string name="website">Página web:</string>
+</resources>
